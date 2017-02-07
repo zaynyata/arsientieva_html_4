@@ -136,6 +136,7 @@ body {
     background-color: white;
     display: table;
     width: 100%;
+    
 }
 
 .column {
@@ -146,6 +147,7 @@ body {
     width: 23%;
     background-color: #edeef0;
     padding-left: 3%;
+    border-right: solid 1px #c7cacf;
 }
 
 .column-center {
@@ -157,6 +159,8 @@ body {
     width: 23%;
     background-color: #edeef0;
     padding-left: 3%;
+    border-left: solid 1px #c7cacf;
+
 }
 
 h2 {
